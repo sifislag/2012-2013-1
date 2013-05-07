@@ -23,7 +23,7 @@ functions2.c: contains functions that check whether the state of the game is a w
 
 functions3.c: contains functions for printing the status of the game.
 
-functions4.c: contains the base of the AI(minimax with alpha-beta prunning) and two functions that assist the evaluation function state parameter
+functions4.c: contains the base of the AI(minimax with alpha-beta prunning) and two functions that assist the evaluation function
 
 functions5.c: contains the function that evaluates the state of the game(used by minimax).
 
